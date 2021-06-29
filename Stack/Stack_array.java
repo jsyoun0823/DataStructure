@@ -41,5 +41,4 @@ public class Stack_array {
 
         // 스택 꽉차면 사이즈 늘려주기
         // junit 써서 테스트 코드 만들기
-    // dksd
 }
